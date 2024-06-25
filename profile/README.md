@@ -1,7 +1,7 @@
 # Gogeloo 👀
 
 ## Introductions 👋🏻
-- [Arvid Berndtsson](https://l.arvid.com/linkedin)
+- [Arvid Berndtsson](https://l.arvid.top/linkedin)
 - [Sebastian Hansson](https://www.linkedin.com/in/s-hansson/)
 - [Kasper Renhorn Berg](https://www.linkedin.com/in/kasper-renhorn-berg/)
 
